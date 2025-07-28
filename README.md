@@ -53,8 +53,6 @@ Player X, enter position (1-9): 5
 ---|---|---
    |   |  
    
-   
-
 ## 👨‍💻 Author
 
 Developed by
