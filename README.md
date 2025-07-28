@@ -29,3 +29,34 @@ It is a console-based game where two players take turns to mark X and O.
 1. Save the code in a file named `tic_tac_toe.py`
 2. Open terminal and run:
    python tic_tac_toe.py
+
+🧠 Board Positions Guide
+
+ 1 | 2 | 3
+---|---|---
+ 4 | 5 | 6
+---|---|---
+ 7 | 8 | 9
+
+
+📷 Screenshots
+
+ tic_tac_toe_output.png
+
+✅ Output Example
+
+Player X, enter position (1-9): 5
+
+   |   |  
+---|---|---
+   | X |  
+---|---|---
+   |   |  
+   
+   
+
+## 👨‍💻 Author
+
+Developed by
+**Syeda Alia Samia**  
+GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
